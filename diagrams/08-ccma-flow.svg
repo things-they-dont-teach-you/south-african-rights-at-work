@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 470" width="720" height="470" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Taking a dispute to the CCMA</title>
+  <desc id="d">Step 1: refer the dispute on LRA Form 7.11 within the time limit (30 days for a dismissal, 90 days for an unfair labour practice, 6 months for discrimination or harassment) and send a copy to the employer. If you are late, apply for condonation. Step 2: conciliation, usually within 30 days; if it settles, the agreement is binding. Step 3: if not settled, you get a certificate, and within 90 days you can ask for arbitration, which ends in a binding award. Some disputes go to the Labour Court instead.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="470" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Taking a dispute to the CCMA</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">Free. Time limits count every day, weekends and public holidays too.</text>
+
+  <rect x="40" y="88" width="400" height="86" rx="8" fill="#2a78d6"/>
+  <text x="60" y="114" font-size="15" font-weight="600" fill="#ffffff">1. Refer on LRA Form 7.11, and copy the employer</text>
+  <text x="60" y="136" font-size="13" fill="#ffffff">Dismissal: 30 days. Unfair labour practice: 90 days.</text>
+  <text x="60" y="156" font-size="13" fill="#ffffff">Discrimination or harassment: 6 months.</text>
+
+  <rect x="480" y="88" width="200" height="86" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="580" y="118" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Late?</text>
+  <text x="580" y="140" font-size="13" fill="#0b0b0b" text-anchor="middle">Apply for condonation.</text>
+  <text x="580" y="158" font-size="13" fill="#0b0b0b" text-anchor="middle">It can be refused.</text>
+  <line x1="440" y1="131" x2="474" y2="131" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <line x1="240" y1="174" x2="240" y2="202" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="40" y="208" width="400" height="66" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="60" y="234" font-size="15" font-weight="600" fill="#0b0b0b">2. Conciliation, usually within 30 days</text>
+  <text x="60" y="256" font-size="13" fill="#52514e">A commissioner helps you both try to agree. Confidential.</text>
+
+  <line x1="440" y1="241" x2="474" y2="241" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="457" y="233" font-size="12" fill="#52514e" text-anchor="middle">Agree</text>
+  <rect x="480" y="208" width="200" height="66" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="580" y="236" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Settled</text>
+  <text x="580" y="256" font-size="13" fill="#0b0b0b" text-anchor="middle">The agreement is binding.</text>
+
+  <line x1="240" y1="274" x2="240" y2="302" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="250" y="293" font-size="12" fill="#52514e">Not settled: you get a certificate</text>
+  <rect x="40" y="308" width="400" height="86" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="60" y="334" font-size="15" font-weight="600" fill="#0b0b0b">3. Ask for arbitration within 90 days</text>
+  <text x="60" y="356" font-size="13" fill="#52514e">A commissioner hears both sides and makes a</text>
+  <text x="60" y="374" font-size="13" fill="#52514e">binding award. Some cases are heard the same day.</text>
+
+  <line x1="440" y1="351" x2="474" y2="351" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="457" y="343" font-size="12" fill="#52514e" text-anchor="middle">Or</text>
+  <rect x="480" y="308" width="200" height="86" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="580" y="338" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Labour Court</text>
+  <text x="580" y="360" font-size="13" fill="#52514e" text-anchor="middle">For some disputes, such as</text>
+  <text x="580" y="378" font-size="13" fill="#52514e" text-anchor="middle">automatically unfair dismissal</text>
+
+  <text x="40" y="428" font-size="13" fill="#0b0b0b">Free advice: the CCMA. Check facts.md for current time limits and contacts.</text>
+  <text x="40" y="456" font-size="12" fill="#52514e">Source: CCMA info sheets on conciliation and late referrals. Legal information, not legal advice.</text>
+</svg>
